@@ -4,19 +4,19 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- bootstrap-daterangepicker -->
-    <link href="../assets/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
     <!-- bootstrap-datetimepicker -->
-    <link href="../assets/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.css" rel="stylesheet">
     <!-- Ion.RangeSlider -->
-    <link href="../assets/normalize-css/normalize.css" rel="stylesheet">
-    <link href="../assets/ion.rangeSlider/css/ion.rangeSlider.css" rel="stylesheet">
-    <link href="../assets/ion.rangeSlider/css/ion.rangeSlider.skinFlat.css" rel="stylesheet">
+    <link href="../static/vendors/normalize-css/normalize.css" rel="stylesheet">
+    <link href="../static/vendors/ion.rangeSlider/css/ion.rangeSlider.css" rel="stylesheet">
+    <link href="../static/vendors/ion.rangeSlider/css/ion.rangeSlider.skinFlat.css" rel="stylesheet">
     <!-- Bootstrap Colorpicker -->
-    <link href="../assets/mjolnic-bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css" rel="stylesheet">
+    <link href="../static/vendors/mjolnic-bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css" rel="stylesheet">
 
-    <link href="../assets/cropper/dist/cropper.min.css" rel="stylesheet">
+    <link href="../static/vendors/cropper/dist/cropper.min.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
@@ -1771,24 +1771,24 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- bootstrap-daterangepicker -->
-    <script src="../assets/moment/min/moment.min.js"></script>
-    <script src="../assets/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <script src="../static/vendors/moment/min/moment.min.js"></script>
+    <script src="../static/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
     <!-- bootstrap-datetimepicker -->
-    <script src="../assets/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="../static/vendors/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
     <!-- Ion.RangeSlider -->
-    <script src="../assets/ion.rangeSlider/js/ion.rangeSlider.min.js"></script>
+    <script src="../static/vendors/ion.rangeSlider/js/ion.rangeSlider.min.js"></script>
     <!-- Bootstrap Colorpicker -->
-    <script src="../assets/mjolnic-bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js"></script>
+    <script src="../static/vendors/mjolnic-bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js"></script>
     <!-- jquery.inputmask -->
-    <script src="../assets/jquery.inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>
+    <script src="../static/vendors/jquery.inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>
     <!-- jQuery Knob -->
-    <script src="../assets/jquery-knob/dist/jquery.knob.min.js"></script>
+    <script src="../static/vendors/jquery-knob/dist/jquery.knob.min.js"></script>
     <!-- Cropper -->
-    <script src="../assets/cropper/dist/cropper.min.js"></script>
+    <script src="../static/vendors/cropper/dist/cropper.min.js"></script>
 
     <!-- Initialize datetimepicker -->
     <script>

@@ -5,15 +5,15 @@
     <title>Gentelella Alela! |</title>
 
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="../assets/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
     <!-- bootstrap-progressbar -->
-    <link href="../assets/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
     <!-- PNotify -->
-    <link href="../assets/pnotify/dist/pnotify.css" rel="stylesheet">
-    <link href="../assets/pnotify/dist/pnotify.buttons.css" rel="stylesheet">
-    <link href="../assets/pnotify/dist/pnotify.nonblock.css" rel="stylesheet">
+    <link href="../static/vendors/pnotify/dist/pnotify.css" rel="stylesheet">
+    <link href="../static/vendors/pnotify/dist/pnotify.buttons.css" rel="stylesheet">
+    <link href="../static/vendors/pnotify/dist/pnotify.nonblock.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
@@ -1505,7 +1505,7 @@
                         <li>
                             <a>
                                 <span class="image">
-                                    <img src="../assets/gentelella-img.jpg" alt="img"/>
+                                    <img src="../static/images/gentelella-img.jpg" alt="img"/>
                                 </span>
                                 <span>
                                     <span>John Smith</span>
@@ -1519,7 +1519,7 @@
                         <li>
                             <a>
                                 <span class="image">
-                                    <img src="../assets/gentelella-img.jpg" alt="img"/>
+                                    <img src="../static/images/gentelella-img.jpg" alt="img"/>
                                 </span>
                                 <span>
                                     <span>John Smith</span>
@@ -1533,7 +1533,7 @@
                         <li>
                             <a>
                                 <span class="image">
-                                    <img src="../assets/gentelella-img.jpg" alt="img"/>
+                                    <img src="../static/images/gentelella-img.jpg" alt="img"/>
                                 </span>
                                 <span>
                                     <span>John Smith</span>
@@ -1547,7 +1547,7 @@
                         <li>
                             <a>
                                 <span class="image">
-                                    <img src="../assets/gentelella-img.jpg" alt="img"/>
+                                    <img src="../static/images/gentelella-img.jpg" alt="img"/>
                                 </span>
                                 <span>
                                     <span>John Smith</span>
@@ -1578,17 +1578,17 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- bootstrap-progressbar -->
-    <script src="../assets/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <script src="../static/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
     <!-- iCheck -->
-    <script src="../assets/iCheck/icheck.min.js"></script>
+    <script src="../static/vendors/iCheck/icheck.min.js"></script>
     <!-- PNotify -->
-    <script src="../assets/pnotify/dist/pnotify.js"></script>
-    <script src="../assets/pnotify/dist/pnotify.buttons.js"></script>
-    <script src="../assets/pnotify/dist/pnotify.nonblock.js"></script>
+    <script src="../static/vendors/pnotify/dist/pnotify.js"></script>
+    <script src="../static/vendors/pnotify/dist/pnotify.buttons.js"></script>
+    <script src="../static/vendors/pnotify/dist/pnotify.nonblock.js"></script>
 </content>
 </body>
 </html>

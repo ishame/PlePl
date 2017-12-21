@@ -4,7 +4,7 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- Custom styling plus plugins -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -106,9 +106,9 @@
 </div>
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
 </content>
 </body>
 </html>

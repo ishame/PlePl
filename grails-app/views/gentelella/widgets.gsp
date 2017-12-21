@@ -4,9 +4,9 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- bootstrap-progressbar -->
-    <link href="../assets/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -345,7 +345,7 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <img src="../assets/gentelella-user.png" alt="..."
+                                                    <img src="../static/images/gentelella-user.png" alt="..."
                                                          class="img-circle profile_img">
                                                 </li>
                                                 <li>
@@ -717,17 +717,17 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- Chart.js -->
-    <script src="../assets/Chart.js/dist/Chart.min.js"></script>
+    <script src="../static/vendors/Chart.js/dist/Chart.min.js"></script>
     <!-- jQuery Sparklines -->
-    <script src="../assets/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+    <script src="../static/vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
     <!-- easy-pie-chart -->
-    <script src="../assets/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
+    <script src="../static/vendors/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
     <!-- bootstrap-progressbar -->
-    <script src="../assets/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <script src="../static/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
 </content>
 
 </body>

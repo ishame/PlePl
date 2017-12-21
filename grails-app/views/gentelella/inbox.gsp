@@ -5,9 +5,9 @@
     <title>Gentelella Alela! |</title>
 
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- bootstrap-wysiwyg -->
-    <link href="../assets/google-code-prettify/bin/prettify.min.css" rel="stylesheet">
+    <link href="../static/vendors/google-code-prettify/bin/prettify.min.css" rel="stylesheet">
     <!-- Custom styling plus plugins -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -241,7 +241,7 @@
                                         <ul>
                                             <li>
                                                 <a href="#" class="atch-thumb">
-                                                    <img src="../assets/gentelella-inbox.png" alt="img"/>
+                                                    <img src="../static/images/gentelella-inbox.png" alt="img"/>
                                                 </a>
 
                                                 <div class="file-name">
@@ -258,7 +258,7 @@
 
                                             <li>
                                                 <a href="#" class="atch-thumb">
-                                                    <img src="../assets/gentelella-inbox.png" alt="img"/>
+                                                    <img src="../static/images/gentelella-inbox.png" alt="img"/>
                                                 </a>
 
                                                 <div class="file-name">
@@ -273,7 +273,7 @@
                                             </li>
                                             <li>
                                                 <a href="#" class="atch-thumb">
-                                                    <img src="../assets/gentelella-inbox.png" alt="img"/>
+                                                    <img src="../static/images/gentelella-inbox.png" alt="img"/>
                                                 </a>
 
                                                 <div class="file-name">
@@ -417,13 +417,13 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- bootstrap-wysiwyg -->
-    <script src="../assets/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js"></script>
-    <script src="../assets/jquery.hotkeys/jquery.hotkeys.js"></script>
-    <script src="../assets/google-code-prettify/src/prettify.js"></script>
+    <script src="../static/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js"></script>
+    <script src="../static/vendors/jquery.hotkeys/jquery.hotkeys.js"></script>
+    <script src="../static/vendors/google-code-prettify/src/prettify.js"></script>
 </content>
 
 </body>

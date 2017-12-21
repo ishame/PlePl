@@ -27,7 +27,7 @@
   <script src="js/jquery.min.js"></script>
 
   <!--[if lt IE 9]>
-        <script src="../assets/js/ie8-responsive-file-warning.js"></script>
+        <script src="../static/vendors/js/ie8-responsive-file-warning.js"></script>
         <![endif]-->
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -56,7 +56,7 @@
           <!-- menu prile quick info -->
           <div class="profile clearfix">
             <div class="profile_pic">
-              <img src="../assets/gentelella-img.jpg" alt="..." class="img-circle profile_img">
+              <img src="../static/images/gentelella-img.jpg" alt="..." class="img-circle profile_img">
             </div>
             <div class="profile_info">
               <span>Welcome,</span>
@@ -233,7 +233,7 @@
                 <ul class="nav navbar-nav navbar-right">
                   <li class="">
                     <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                      <img src="../assets/gentelella-img.jpg" alt="">John Doe
+                      <img src="../static/images/gentelella-img.jpg" alt="">John Doe
                       <span class=" fa fa-angle-down"></span>
                     </a>
                     <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -262,7 +262,7 @@
                       <li>
                         <a>
                           <span class="image">
-                                        <img src="../assets/gentelella-img.jpg" alt="Profile Image" />
+                                        <img src="../static/images/gentelella-img.jpg" alt="Profile Image" />
                                     </span>
                           <span>
                                         <span>John Smith</span>
@@ -276,7 +276,7 @@
                       <li>
                         <a>
                           <span class="image">
-                                        <img src="../assets/gentelella-img.jpg" alt="Profile Image" />
+                                        <img src="../static/images/gentelella-img.jpg" alt="Profile Image" />
                                     </span>
                           <span>
                                         <span>John Smith</span>
@@ -290,7 +290,7 @@
                       <li>
                         <a>
                           <span class="image">
-                                        <img src="../assets/gentelella-img.jpg" alt="Profile Image" />
+                                        <img src="../static/images/gentelella-img.jpg" alt="Profile Image" />
                                     </span>
                           <span>
                                         <span>John Smith</span>
@@ -304,7 +304,7 @@
                       <li>
                         <a>
                           <span class="image">
-                                        <img src="../assets/gentelella-img.jpg" alt="Profile Image" />
+                                        <img src="../static/images/gentelella-img.jpg" alt="Profile Image" />
                                     </span>
                           <span>
                                         <span>John Smith</span>

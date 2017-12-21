@@ -3,19 +3,19 @@
 <head><meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="../assets/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
     <!-- bootstrap-wysiwyg -->
-    <link href="../assets/google-code-prettify/bin/prettify.min.css" rel="stylesheet">
+    <link href="../static/vendors/google-code-prettify/bin/prettify.min.css" rel="stylesheet">
     <!-- Select2 -->
-    <link href="../assets/select2/dist/css/select2.min.css" rel="stylesheet">
+    <link href="../static/vendors/select2/dist/css/select2.min.css" rel="stylesheet">
     <!-- Switchery -->
-    <link href="../assets/switchery/dist/switchery.min.css" rel="stylesheet">
+    <link href="../static/vendors/switchery/dist/switchery.min.css" rel="stylesheet">
     <!-- starrr -->
-    <link href="../assets/starrr/dist/starrr.css" rel="stylesheet">
+    <link href="../static/vendors/starrr/dist/starrr.css" rel="stylesheet">
     <!-- bootstrap-daterangepicker -->
-    <link href="../assets/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
@@ -1244,34 +1244,34 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- bootstrap-progressbar -->
-    <script src="../assets/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <script src="../static/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
     <!-- iCheck -->
-    <script src="../assets/iCheck/icheck.min.js"></script>
+    <script src="../static/vendors/iCheck/icheck.min.js"></script>
     <!-- bootstrap-daterangepicker -->
-    <script src="../assets/moment/min/moment.min.js"></script>
-    <script src="../assets/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <script src="../static/vendors/moment/min/moment.min.js"></script>
+    <script src="../static/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
     <!-- bootstrap-wysiwyg -->
-    <script src="../assets/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js"></script>
-    <script src="../assets/jquery.hotkeys/jquery.hotkeys.js"></script>
-    <script src="../assets/google-code-prettify/src/prettify.js"></script>
+    <script src="../static/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js"></script>
+    <script src="../static/vendors/jquery.hotkeys/jquery.hotkeys.js"></script>
+    <script src="../static/vendors/google-code-prettify/src/prettify.js"></script>
     <!-- jQuery Tags Input -->
-    <script src="../assets/jquery.tagsinput/src/jquery.tagsinput.js"></script>
+    <script src="../static/vendors/jquery.tagsinput/src/jquery.tagsinput.js"></script>
     <!-- Switchery -->
-    <script src="../assets/switchery/dist/switchery.min.js"></script>
+    <script src="../static/vendors/switchery/dist/switchery.min.js"></script>
     <!-- Select2 -->
-    <script src="../assets/select2/dist/js/select2.full.min.js"></script>
+    <script src="../static/vendors/select2/dist/js/select2.full.min.js"></script>
     <!-- Parsley -->
-    <script src="../assets/parsleyjs/dist/parsley.min.js"></script>
+    <script src="../static/vendors/parsleyjs/dist/parsley.min.js"></script>
     <!-- Autosize -->
-    <script src="../assets/autosize/dist/autosize.min.js"></script>
+    <script src="../static/vendors/autosize/dist/autosize.min.js"></script>
     <!-- jQuery autocomplete -->
-    <script src="../assets/devbridge-autocomplete/dist/jquery.autocomplete.min.js"></script>
+    <script src="../static/vendors/devbridge-autocomplete/dist/jquery.autocomplete.min.js"></script>
     <!-- starrr -->
-    <script src="../assets/starrr/dist/starrr.js"></script>
+    <script src="../static/vendors/starrr/dist/starrr.js"></script>
 </content>
 </body>
 </html>

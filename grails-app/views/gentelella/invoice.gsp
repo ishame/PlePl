@@ -4,7 +4,7 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- Custom styling plus plugins -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -161,10 +161,10 @@
                                 <!-- accepted payments column -->
                                 <div class="col-xs-6">
                                     <p class="lead">Payment Methods:</p>
-                                    <img src="../assets/gentelella-visa.png" alt="Visa">
-                                    <img src="../assets/gentelella-mastercard.png" alt="Mastercard">
-                                    <img src="../assets/gentelella-american-express.png" alt="American Express">
-                                    <img src="../assets/gentelella-paypal.png" alt="Paypal">
+                                    <img src="../static/images/gentelella-visa.png" alt="Visa">
+                                    <img src="../static/images/gentelella-mastercard.png" alt="Mastercard">
+                                    <img src="../static/images/gentelella-american-express.png" alt="American Express">
+                                    <img src="../static/images/gentelella-paypal.png" alt="Paypal">
 
                                     <p class="text-muted well well-sm no-shadow" style="margin-top: 10px;">
                                         Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr jibjab, movity jajah plickers sifteo edmodo ifttt zimbra.
@@ -222,9 +222,9 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
 </content>
 </body>
 </html>

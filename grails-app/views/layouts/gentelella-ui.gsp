@@ -13,9 +13,9 @@
     </title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
-    <link href="../assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../static/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <g:layoutHead/>
 </head>
 
@@ -40,9 +40,9 @@
     </div>
 </div>
 <!-- jQuery -->
-<script src="../assets/jquery/dist/jquery.min.js"></script>
+<script src="../static/vendors/jquery/dist/jquery.min.js"></script>
 <!-- Bootstrap -->
-<script src="../assets/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="../static/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
 <g:pageProperty name="page.javascript"/>
 <!-- Custom Theme Scripts -->
 <asset:javascript src="gentelella.js"/>

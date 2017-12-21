@@ -4,9 +4,9 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Moris JS Chart Examples | Gentelella Alela! by Colorlib</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="../assets/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -233,12 +233,12 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- morris.js -->
-    <script src="../assets/raphael/raphael.min.js"></script>
-    <script src="../assets/morris.js/morris.min.js"></script>
+    <script src="../static/vendors/raphael/raphael.min.js"></script>
+    <script src="../static/vendors/morris.js/morris.min.js"></script>
 </content>
 
 </body>

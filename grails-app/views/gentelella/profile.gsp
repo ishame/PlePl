@@ -4,9 +4,9 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- bootstrap-daterangepicker -->
-    <link href="../assets/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -170,7 +170,7 @@
                                         <!-- start recent activity -->
                                         <ul class="messages">
                                             <li>
-                                                <img src="../assets/gentelella-img.jpg" class="avatar"
+                                                <img src="../static/images/gentelella-img.jpg" class="avatar"
                                                      alt="Avatar">
 
                                                 <div class="message_date">
@@ -195,7 +195,7 @@
                                                 </div>
                                             </li>
                                             <li>
-                                                <img src="../assets/gentelella-img.jpg" class="avatar"
+                                                <img src="../static/images/gentelella-img.jpg" class="avatar"
                                                      alt="Avatar">
 
                                                 <div class="message_date">
@@ -218,7 +218,7 @@
                                                 </div>
                                             </li>
                                             <li>
-                                                <img src="../assets/gentelella-img.jpg" class="avatar"
+                                                <img src="../static/images/gentelella-img.jpg" class="avatar"
                                                      alt="Avatar">
 
                                                 <div class="message_date">
@@ -243,7 +243,7 @@
                                                 </div>
                                             </li>
                                             <li>
-                                                <img src="../assets/gentelella-img.jpg" class="avatar"
+                                                <img src="../static/images/gentelella-img.jpg" class="avatar"
                                                      alt="Avatar">
 
                                                 <div class="message_date">
@@ -357,17 +357,17 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- morris.js -->
-    <script src="../assets/raphael/raphael.min.js"></script>
-    <script src="../assets/morris.js/morris.min.js"></script>
+    <script src="../static/vendors/raphael/raphael.min.js"></script>
+    <script src="../static/vendors/morris.js/morris.min.js"></script>
     <!-- bootstrap-progressbar -->
-    <script src="../assets/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <script src="../static/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
     <!-- bootstrap-daterangepicker -->
-    <script src="../assets/moment/min/moment.min.js"></script>
-    <script src="../assets/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <script src="../static/vendors/moment/min/moment.min.js"></script>
+    <script src="../static/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
 </content>
 
 </body>

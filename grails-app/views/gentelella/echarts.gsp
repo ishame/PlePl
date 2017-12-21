@@ -5,7 +5,7 @@
     <title>ECharts Chart Bootstrap Examples | Gentelella Alela! by Colorlib</title>
 
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
@@ -425,12 +425,12 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- ECharts -->
-    <script src="../assets/echarts/dist/echarts.min.js"></script>
-    <script src="../assets/echarts/map/js/world.js"></script>
+    <script src="../static/vendors/echarts/dist/echarts.min.js"></script>
+    <script src="../static/vendors/echarts/map/js/world.js"></script>
 </content>
 
 </body>

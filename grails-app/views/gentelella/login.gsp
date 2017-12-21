@@ -10,13 +10,13 @@
     <title>Gentelella Alela! |</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
-    <link href="../assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../static/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- Animate.css -->
-    <link href="../assets/animate.css/animate.min.css" rel="stylesheet">
+    <link href="../static/vendors/animate.css/animate.min.css" rel="stylesheet">
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>

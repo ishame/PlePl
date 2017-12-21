@@ -3,7 +3,7 @@
 <head><meta name="layout" content="gentelella-ui"/>
     <title>Chart JS Graph Examples Part 2 | Gentelella Alela! by Colorlib</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
@@ -219,11 +219,11 @@
 </div>
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- Chart.js -->
-    <script src="../assets/Chart.js/dist/Chart.min.js"></script>
+    <script src="../static/vendors/Chart.js/dist/Chart.min.js"></script>
 </content>
 
 </body>

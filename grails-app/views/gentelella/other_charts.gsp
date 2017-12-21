@@ -4,11 +4,11 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="../assets/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
     <!-- JQVMap -->
-    <link href="../assets/jqvmap/dist/jqvmap.min.css" rel="stylesheet"/>
+    <link href="../static/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet"/>
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -187,18 +187,18 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- jQuery Sparklines -->
-    <script src="../assets/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+    <script src="../static/vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
     <!-- JQVMap -->
-    <script src="../assets/jqvmap/dist/jquery.vmap.js"></script>
-    <script src="../assets/jqvmap/dist/maps/jquery.vmap.world.js"></script>
-    <script src="../assets/jqvmap/dist/maps/jquery.vmap.usa.js"></script>
-    <script src="../assets/jqvmap/examples/js/jquery.vmap.sampledata.js"></script>
+    <script src="../static/vendors/jqvmap/dist/jquery.vmap.js"></script>
+    <script src="../static/vendors/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+    <script src="../static/vendors/jqvmap/dist/maps/jquery.vmap.usa.js"></script>
+    <script src="../static/vendors/jqvmap/examples/js/jquery.vmap.sampledata.js"></script>
     <!-- easy-pie-chart -->
-    <script src="../assets/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
+    <script src="../static/vendors/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
 </content>
 
 </body>

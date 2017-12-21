@@ -4,15 +4,15 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>DataTables | Gentelella</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="../assets/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
     <!-- Datatables -->
-    <link href="../assets/datatables.net-bs/css/dataTables.bootstrap.min.css" rel="stylesheet">
-    <link href="../assets/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" rel="stylesheet">
-    <link href="../assets/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css" rel="stylesheet">
-    <link href="../assets/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
-    <link href="../assets/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendors/datatables.net-bs/css/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
+    <link href="../static/vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet">
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -3425,27 +3425,27 @@
 </div>
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- iCheck -->
-    <script src="../assets/iCheck/icheck.min.js"></script>
+    <script src="../static/vendors/iCheck/icheck.min.js"></script>
     <!-- Datatables -->
-    <script src="../assets/datatables.net/js/jquery.dataTables.min.js"></script>
-    <script src="../assets/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
-    <script src="../assets/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
-    <script src="../assets/datatables.net-buttons-bs/js/buttons.bootstrap.min.js"></script>
-    <script src="../assets/datatables.net-buttons/js/buttons.flash.min.js"></script>
-    <script src="../assets/datatables.net-buttons/js/buttons.html5.min.js"></script>
-    <script src="../assets/datatables.net-buttons/js/buttons.print.min.js"></script>
-    <script src="../assets/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"></script>
-    <script src="../assets/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
-    <script src="../assets/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
-    <script src="../assets/datatables.net-responsive-bs/js/responsive.bootstrap.js"></script>
-    <script src="../assets/datatables.net-scroller/js/dataTables.scroller.min.js"></script>
-    <script src="../assets/jszip/dist/jszip.min.js"></script>
-    <script src="../assets/pdfmake/build/pdfmake.min.js"></script>
-    <script src="../assets/pdfmake/build/vfs_fonts.js"></script>
+    <script src="../static/vendors/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="../static/vendors/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="../static/vendors/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="../static/vendors/datatables.net-buttons-bs/js/buttons.bootstrap.min.js"></script>
+    <script src="../static/vendors/datatables.net-buttons/js/buttons.flash.min.js"></script>
+    <script src="../static/vendors/datatables.net-buttons/js/buttons.html5.min.js"></script>
+    <script src="../static/vendors/datatables.net-buttons/js/buttons.print.min.js"></script>
+    <script src="../static/vendors/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"></script>
+    <script src="../static/vendors/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
+    <script src="../static/vendors/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="../static/vendors/datatables.net-responsive-bs/js/responsive.bootstrap.js"></script>
+    <script src="../static/vendors/datatables.net-scroller/js/dataTables.scroller.min.js"></script>
+    <script src="../static/vendors/jszip/dist/jszip.min.js"></script>
+    <script src="../static/vendors/pdfmake/build/pdfmake.min.js"></script>
+    <script src="../static/vendors/pdfmake/build/vfs_fonts.js"></script>
 </content>
 
 </body>

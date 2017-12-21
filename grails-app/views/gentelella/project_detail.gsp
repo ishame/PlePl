@@ -4,9 +4,9 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="../assets/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
 </head>
@@ -87,7 +87,7 @@
                                 <!-- end of user messages -->
                                 <ul class="messages">
                                     <li>
-                                        <img src="../assets/gentelella-img.jpg" class="avatar" alt="Avatar">
+                                        <img src="../static/images/gentelella-img.jpg" class="avatar" alt="Avatar">
 
                                         <div class="message_date">
                                             <h3 class="date text-info">24</h3>
@@ -111,7 +111,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <img src="../assets/gentelella-img.jpg" class="avatar" alt="Avatar">
+                                        <img src="../static/images/gentelella-img.jpg" class="avatar" alt="Avatar">
 
                                         <div class="message_date">
                                             <h3 class="date text-error">21</h3>
@@ -132,7 +132,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <img src="../assets/gentelella-img.jpg" class="avatar" alt="Avatar">
+                                        <img src="../static/images/gentelella-img.jpg" class="avatar" alt="Avatar">
 
                                         <div class="message_date">
                                             <h3 class="date text-info">24</h3>
@@ -229,11 +229,11 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- ECharts -->
-    <script src="../assets/echarts/dist/echarts.min.js"></script>
+    <script src="../static/vendors/echarts/dist/echarts.min.js"></script>
 </content>
 
 </body>

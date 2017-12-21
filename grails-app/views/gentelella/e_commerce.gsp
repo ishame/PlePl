@@ -5,9 +5,9 @@
     <title>Gentelella Alela! |</title>
 
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- iCheck -->
-    <link href="../assets/iCheck/skins/flat/green.css" rel="stylesheet">
+    <link href="../static/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.min.css"/>
@@ -65,21 +65,21 @@
 
                         <div class="col-md-7 col-sm-7 col-xs-12">
                             <div class="product-image">
-                                <img src="../assets/gentelella-prod-1.jpg" alt="..."/>
+                                <img src="../static/images/gentelella-prod-1.jpg" alt="..."/>
                             </div>
 
                             <div class="product_gallery">
                                 <a>
-                                    <img src="../assets/gentelella-prod-2.jpg" alt="..."/>
+                                    <img src="../static/images/gentelella-prod-2.jpg" alt="..."/>
                                 </a>
                                 <a>
-                                    <img src="../assets/gentelella-prod-3.jpg" alt="..."/>
+                                    <img src="../static/images/gentelella-prod-3.jpg" alt="..."/>
                                 </a>
                                 <a>
-                                    <img src="../assets/gentelella-prod-4.jpg" alt="..."/>
+                                    <img src="../static/images/gentelella-prod-4.jpg" alt="..."/>
                                 </a>
                                 <a>
-                                    <img src="../assets/gentelella-prod-5.jpg" alt="..."/>
+                                    <img src="../static/images/gentelella-prod-5.jpg" alt="..."/>
                                 </a>
                             </div>
                         </div>
@@ -215,9 +215,9 @@
 </div>
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
 
 </content>
 </body>

@@ -4,10 +4,10 @@
     <meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- FullCalendar -->
-    <link href="../assets/fullcalendar/dist/fullcalendar.min.css" rel="stylesheet">
-    <link href="../assets/fullcalendar/dist/fullcalendar.print.css" rel="stylesheet" media="print">
+    <link href="../static/vendors/fullcalendar/dist/fullcalendar.min.css" rel="stylesheet">
+    <link href="../static/vendors/fullcalendar/dist/fullcalendar.print.css" rel="stylesheet" media="print">
 
     <!-- Custom styling plus plugins -->
     <asset:stylesheet src="gentelella.min.css"/>
@@ -160,12 +160,12 @@
 
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- FullCalendar -->
-    <script src="../assets/moment/min/moment.min.js"></script>
-    <script src="../assets/fullcalendar/dist/fullcalendar.min.js"></script>
+    <script src="../static/vendors/moment/min/moment.min.js"></script>
+    <script src="../static/vendors/fullcalendar/dist/fullcalendar.min.js"></script>
 </content>
 
 </body>

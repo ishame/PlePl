@@ -3,11 +3,11 @@
 <head><meta name="layout" content="gentelella-ui"/>
     <title>Gentelella Alela! |</title>
     <!-- NProgress -->
-    <link href="../assets/nprogress/nprogress.css" rel="stylesheet">
+    <link href="../static/vendors/nprogress/nprogress.css" rel="stylesheet">
     <!-- bootstrap-progressbar -->
-    <link href="../assets/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet">
     <!-- bootstrap-daterangepicker -->
-    <link href="../assets/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="../static/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
     <!-- Custom Theme Style -->
     <asset:stylesheet src="gentelella.css"/>
 </head>
@@ -667,37 +667,37 @@
 </div>
 <content tag="javascript">
     <!-- FastClick -->
-    <script src="../assets/fastclick/lib/fastclick.js"></script>
+    <script src="../static/vendors/fastclick/lib/fastclick.js"></script>
     <!-- NProgress -->
-    <script src="../assets/nprogress/nprogress.js"></script>
+    <script src="../static/vendors/nprogress/nprogress.js"></script>
     <!-- Chart.js -->
-    <script src="../assets/Chart.js/dist/Chart.min.js"></script>
+    <script src="../static/vendors/Chart.js/dist/Chart.min.js"></script>
     <!-- jQuery Sparklines -->
-    <script src="../assets/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
+    <script src="../static/vendors/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
     <!-- morris.js -->
-    <script src="../assets/raphael/raphael.min.js"></script>
-    <script src="../assets/morris.js/morris.min.js"></script>
+    <script src="../static/vendors/raphael/raphael.min.js"></script>
+    <script src="../static/vendors/morris.js/morris.min.js"></script>
     <!-- gauge.js -->
-    <script src="../assets/gauge.js/dist/gauge.min.js"></script>
+    <script src="../static/vendors/gauge.js/dist/gauge.min.js"></script>
     <!-- bootstrap-progressbar -->
-    <script src="../assets/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <script src="../static/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
     <!-- Skycons -->
-    <script src="../assets/skycons/skycons.js"></script>
+    <script src="../static/vendors/skycons/skycons.js"></script>
     <!-- Flot -->
-    <script src="../assets/Flot/jquery.flot.js"></script>
-    <script src="../assets/Flot/jquery.flot.pie.js"></script>
-    <script src="../assets/Flot/jquery.flot.time.js"></script>
-    <script src="../assets/Flot/jquery.flot.stack.js"></script>
-    <script src="../assets/Flot/jquery.flot.resize.js"></script>
+    <script src="../static/vendors/Flot/jquery.flot.js"></script>
+    <script src="../static/vendors/Flot/jquery.flot.pie.js"></script>
+    <script src="../static/vendors/Flot/jquery.flot.time.js"></script>
+    <script src="../static/vendors/Flot/jquery.flot.stack.js"></script>
+    <script src="../static/vendors/Flot/jquery.flot.resize.js"></script>
     <!-- Flot plugins -->
-    <script src="../assets/flot.orderbars/js/jquery.flot.orderBars.js"></script>
-    <script src="../assets/flot-spline/js/jquery.flot.spline.min.js"></script>
-    <script src="../assets/flot.curvedlines/curvedLines.js"></script>
+    <script src="../static/vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+    <script src="../static/vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+    <script src="../static/vendors/flot.curvedlines/curvedLines.js"></script>
     <!-- DateJS -->
-    <script src="../assets/DateJS/build/date.js"></script>
+    <script src="../static/vendors/DateJS/build/date.js"></script>
     <!-- bootstrap-daterangepicker -->
-    <script src="../assets/moment/min/moment.min.js"></script>
-    <script src="../assets/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <script src="../static/vendors/moment/min/moment.min.js"></script>
+    <script src="../static/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
 </content>
 </body>
 </html>
